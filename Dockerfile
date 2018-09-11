@@ -1,4 +1,4 @@
-FROM python
+FROM python:alpine
 
 LABEL maintainer="TravixInternational"
 
